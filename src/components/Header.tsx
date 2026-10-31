@@ -56,7 +56,7 @@ export default function Header({
           className="text-xl font-bold text-white tracking-tight hidden sm:flex items-center gap-1.5 shrink-0"
         >
           <span className="text-2xl">🛒</span>
-          <span>Devesh Purohit</span>
+          <span>ShopHub by Devesh Purohit</span>
         </button>
 
         {/* Search bar */}
